@@ -10,11 +10,11 @@
 ### Transaction Management
 - **User-Friendly Interface:** Developed using React.js to facilitate intuitive data entry and transaction management.
   
-  ![image](https://github.com/SHUANGBRO888/MyBookkeeper/assets/110591410/488782cc-5b45-43b0-a9cb-0462ab16699d)
+  ![image](https://github.com/SHUANGBRO888/MyBookKeeperr/assets/110591410/9ef97d43-e504-489f-ad29-63713e14397f)
 
 - **CRUD Operations:** Enabled users to add, edit, and delete transaction records with ease.
 
-  ![image](https://github.com/SHUANGBRO888/MyBookkeeper/assets/110591410/de16fcdb-6c76-458a-9de0-2f66a694f67f)
+  ![image](https://github.com/SHUANGBRO888/MyBookKeeperr/assets/110591410/741babbb-cdf5-4479-924c-7690c4b123ba)
 
 - **Data Integrity:** Established backend validation and data consistency checks for accurate transaction recording.
 
@@ -23,15 +23,15 @@
 - **Categorical Breakdown:** Displays the percentage distribution of various income and expense categories for deeper financial insights.
 - **Date Range Filtering:** Allows users to view financial summaries for specific time periods, catering to personalized analysis needs.
   
-  ![image](https://github.com/SHUANGBRO888/MyBookkeeper/assets/110591410/235fd036-d913-4330-96a2-949dc4c3b41d)
+  ![image](https://github.com/SHUANGBRO888/MyBookKeeperr/assets/110591410/f29db392-6894-4028-84f6-206914cf54fc)
   
 ## General Features
 
 - **Login / SignUp:**
   Login
-  ![image](https://github.com/SHUANGBRO888/MyBookkeeper/assets/110591410/53d4a322-b246-4a6d-a65d-c59f3ce7138c)
+  ![image](https://github.com/SHUANGBRO888/MyBookKeeperr/assets/110591410/4bb17c20-f126-44e8-87fc-0965949e3d99)
   SignUp
-  ![image](https://github.com/SHUANGBRO888/MyBookkeeper/assets/110591410/f3a834be-20bb-455f-89c4-57e3f3dcc8b9)
+  ![image](https://github.com/SHUANGBRO888/MyBookKeeperr/assets/110591410/033983b9-ec2f-4f36-b928-249bdbb72e4a)
 
 ### Backend Development
 - **RESTful API Design:** Utilized Node.js and Express.js to create efficient APIs for frontend interaction and data retrieval.
